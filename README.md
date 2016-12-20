@@ -22,7 +22,8 @@
 
 這裡提供原ijson的github: https://github.com/isagalaev/ijson  
   
-ijsonSearch.py 查詢的json檔名 查詢的目標類型 查詢目標名稱  
+<code>ijsonSearch.py 查詢的json檔名 查詢的目標類型 查詢目標名稱  </code>
+
 查詢目標類型有t, i參數，t為wiki文章的title；i為wiki文章的id   
 範例:  
   
