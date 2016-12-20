@@ -19,11 +19,12 @@
 
 <code>python3 wikiToJson.py 來源資料夾名 輸出json的檔名  </code>
 
-當完成json檔的工作，這裡有提供一個使用ijson搜尋工具，ijson主要是使用在json過大而不能夠全部loading進記憶體時，採用stream的方式讀取json檔。  
-這裡提供原ijson的github: https://github.com/isagalaev/ijson  
+當完成json檔的工作，這裡有提供一個使用ijson搜尋工具，ijson主要是使用在json過大而不能夠全部loading進記憶體時，採用stream的方式讀取json檔。  
 
+這裡提供原ijson的github: https://github.com/isagalaev/ijson  
+  
 ijsonSearch.py 查詢的json檔名 查詢的目標類型 查詢目標名稱   
 查詢目標類型有t, i參數，t為wiki文章的title；i為wiki文章的id   
 範例:  
-
+  
 <code>ijsonSearch.py WikiJson.json t 周杰倫  </code>
