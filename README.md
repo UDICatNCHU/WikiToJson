@@ -24,7 +24,6 @@
   
 <code>python3 ijsonSearch.py 查詢的json檔名 查詢的目標類型 查詢目標名稱  </code>
 
-查詢目標類型有t, i參數，t為wiki文章的title；i為wiki文章的id   
+查詢目標類型有t, i參數，t為wiki文章的title；i為wiki文章的id  
 範例:  
-  
 <code>python3 ijsonSearch.py WikiJson.json t 周杰倫  </code>
