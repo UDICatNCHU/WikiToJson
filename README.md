@@ -1,9 +1,8 @@
 # WikiToJson
 以下提供完成轉換的中英文wikiJson檔  
-英文wiki的json檔https://drive.google.com/open?id=0ByoB_9NkZ9rRa1dLQjdYWlRQYm8
-
-中文wiki的json檔https://drive.google.com/open?id=0ByoB_9NkZ9rRa3VUY25TeXRtdnM
-
+英文wiki的json檔https://drive.google.com/open?id=0ByoB_9NkZ9rRa1dLQjdYWlRQYm8  
+中文wiki的json檔https://drive.google.com/open?id=0ByoB_9NkZ9rRa3VUY25TeXRtdnM  
+  
 程式碼使用方法  
 準備的資料用wiki資料庫下載  
 中文https://dumps.wikimedia.org/zhwiki/  
