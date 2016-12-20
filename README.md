@@ -11,7 +11,7 @@
 這裡使用的是 Articles, templates, media/file descriptions, and primary meta-pages.部分的檔案  
 當下載下來的壓縮檔使用unzip的code先解壓縮到同一資料夾下  
   
-<code>sh ubzipall.sh 資料夾名  </code>
+<code>sh unzipall.sh 資料夾名  </code>
   
 這個shell script 會呼叫WikiExtractor.py  
 當解壓縮完，即可使用wikiToJson.py  
