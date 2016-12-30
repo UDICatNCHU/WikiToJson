@@ -3,8 +3,9 @@
 英文wiki的json檔https://drive.google.com/open?id=0ByoB_9NkZ9rRa1dLQjdYWlRQYm8  
 中文wiki的json檔(裡面有部分文章語句為簡體中文)https://drive.google.com/open?id=0ByoB_9NkZ9rRa3VUY25TeXRtdnM  
 繁體中文wiki的json檔https://drive.google.com/file/d/0ByoB_9NkZ9rRTm9UN3VJUjJqMkk/view?usp=sharing  
-繁體中文wiki的json檔，且content經過斷詞https://drive.google.com/file/d/0ByoB_9NkZ9rRZWFRa1FiWlZYTDA/view?usp=sharing 
-   
+繁體中文wiki的json檔，且content經過斷詞https://drive.google.com/file/d/0ByoB_9NkZ9rRZWFRa1FiWlZYTDA/view?usp=sharing  
+
+  
 程式碼使用方法  
 準備的資料用wiki資料庫下載  
 中文https://dumps.wikimedia.org/zhwiki/  
